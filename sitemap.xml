@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-DOMAIN.example with your real deployed domain before submitting this sitemap. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/privacy-policy.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/terms.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/disclaimer.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/matches.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/social.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/support.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/chat-group.html</loc></url>
+</urlset>
